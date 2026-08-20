@@ -52,13 +52,13 @@ const dataBase = {
         title: "Faixa Amarela",
         text: "<p>Desenvolvimento das bases e consolidação dos movimentos fundamentais.</p><p>O praticante aprimora o equilíbrio, deslocamentos em posições fundamentais (Ma Bu, Gong Bu) e primeiros blocos de defesa e ataque.</p>"
     },
-    'Faixa Vermelha': {
-        title: "Faixa Vermelha",
-        text: "<p>Desenvolvimento de energia, força e transição para técnicas dinâmicas.</p><p>Início do trabalho de potência muscular, velocidade de impacto e transições fluidas de formas.</p>"
-    },
     'Faixa Verde': {
         title: "Faixa Verde",
         text: "<p>Refinamento técnico, velocidade e aprofundamento nos conceitos tradicionais.</p><p>Estudo dos princípios de garras, pontos de alavanca e coordenação motora refinada.</p>"
+    },
+    'Faixa Vermelha': {
+        title: "Faixa Vermelha",
+        text: "<p>Desenvolvimento de energia, força e transição para técnicas dinâmicas.</p><p>Início do trabalho de potência muscular, velocidade de impacto e transições fluidas de formas.</p>"
     },
     'Faixa Azul': {
         title: "Faixa Azul",
